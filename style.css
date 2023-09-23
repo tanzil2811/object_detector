@@ -1,0 +1,34 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#bed_room,#bottles
+{
+    background-color: aliceblue;
+    font-size: 20px;
+    width: 300px;
+    height: 50px;
+    text-decoration-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-color: aliceblue;
+    border-radius: 10px;
+}
+#tv_ac,#desk,#fruit_basket
+{
+    background-color: aliceblue;
+    font-size: 20px;
+    width: 300px;
+    height: 50px;
+    text-decoration-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-color: aliceblue;
+    border-radius: 10px;
+}
